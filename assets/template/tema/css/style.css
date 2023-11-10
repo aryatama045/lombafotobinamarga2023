@@ -5313,6 +5313,7 @@ screen and (-ms-high-contrast:active) {
     background: transparent;
     box-shadow: none;
     font-weight: 600;
+    font-family: 'Helvetica Neue', sans-serif;
 }
 
 .nav-links__item--has-submenu .nav-links__item-body {
