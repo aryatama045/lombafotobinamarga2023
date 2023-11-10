@@ -45,7 +45,7 @@ $iden = $this->db->query("SELECT * FROM tb_web_identitas where id_identitas='1'"
     <link rel="stylesheet" href="<?= base_url('assets/template/gijgo/css/gijgo.min.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/home/') ?>css/templatemo-style.css" />
 
-    <link href="https://fonts.cdnfonts.com/css/helvetica-neue-55" rel="stylesheet">
+    <!-- <link href="https://fonts.cdnfonts.com/css/helvetica-neue-55" rel="stylesheet"> -->
 
     <script src="<?= base_url('assets/template/tema/') ?>vendor/jquery/jquery.min.js"></script>
     <script src="<?= base_url('assets/template/js/header.js') ?>"></script>
