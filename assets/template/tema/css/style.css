@@ -5423,7 +5423,7 @@ screen and (-ms-high-contrast:active) {
     width: 100%;
     position: fixed;
     top: 10;
-    box-shadow: 0 1px rgba(0, 0, 0, .04), inset 0 -1px rgba(0, 0, 0, .04), 0 1px 20px rgba(0, 0, 0, .15);
+    /* box-shadow: 0 1px rgba(0, 0, 0, .04), inset 0 -1px rgba(0, 0, 0, .04), 0 1px 20px rgba(0, 0, 0, .15); */
     transform: translateY(-150%);
     transition: transform 1s ease-in-out
 }
