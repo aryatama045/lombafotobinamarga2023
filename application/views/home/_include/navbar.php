@@ -139,7 +139,7 @@ $this->load->model('Model_menu');?>
                                 <?php
                                     $logo = $this->M_app->view_ordering_limit('tb_web_logo', 'id_logo', 'DESC', 0, 1);
                                     foreach ($logo->result_array() as $row) {
-                                        echo "<a href='https://pu.go.id/' target='_blank' class='site-header__logo'><img height='70px' src='" . base_url() . "assets/images/logo/$row[gambar]'/></a>";
+                                        echo "<a href='https://pu.go.id/' target='_blank' class='site-header__logo'><img height='50px' src='" . base_url() . "assets/images/logo/$row[gambar]'/></a>";
                                     }
                                 ?>
 
